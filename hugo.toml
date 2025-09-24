@@ -1,0 +1,4 @@
+baseURL = 'https://zhuyu.me/'
+languageCode = 'zh-cn'
+title = '朱余的个人网站'
+theme = 'ananke'
