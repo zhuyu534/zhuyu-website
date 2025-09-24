@@ -1,4 +1,4 @@
-baseURL = 'https://zhuyu.me/'
+baseURL = 'https://zhuyu534.github.io/zhuyu-website/'
 languageCode = 'zh-cn'
 title = '朱余的个人网站'
 theme = 'ananke'
